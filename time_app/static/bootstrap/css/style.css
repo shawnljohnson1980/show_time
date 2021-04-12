@@ -1,0 +1,23 @@
+.container2 {
+  height: 320px;
+  width: 1980px;
+  background-color: #ff6606;
+}
+img {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.col p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  position: absolute;
+  font-family: cursive;
+  font-size: 25px;
+  color: rgb(104, 210, 236);
+}
